@@ -1,0 +1,83 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+}
+a {
+    text-decoration: none;
+    color: #e534b5;
+}
+body {
+    background: url('https://images.wallpapersden.com/image/download/galaxies-pixel-art_bGpsaW6UmZqaraWkpJRmbmdlrWZlbWU.jpg') no-repeat fixed;
+    width: 100%;
+    height: 100%; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+   
+}
+.bg{
+    background: rgba(246, 75, 166, 0.7);
+    width: 100%;
+    height: 100%; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+h1 {
+    color: #f5d6d6;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 80px;
+    border-bottom: 10px double #f0f0f0; 
+    width: 50%;
+
+}
+table {
+    position: relative;
+    top: 100px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+}
+
+#null {
+    opacity: 0;
+}
+tr {
+    padding: 20px;
+}
+th {
+    font-weight: 500;
+    font-family: 'Abril Fatface';
+    background-color: #000000;
+    color: #f0f0f0;
+    padding: 40px;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    
+}
+td {
+    background-color: #f5d6d6;  
+}
+td ,th {
+    border-radius: 5px;
+}
+h5 {
+    color: black;
+    font-family: 'Work Sans';
+    z-index: 2; 
+    position: relative;
+    top: 80px;
+    width: 1400px;
+    text-align: right;
+}
